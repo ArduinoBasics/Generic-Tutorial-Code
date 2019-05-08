@@ -4,7 +4,7 @@
  * Date created: 06 May 2019
  * Arduino IDE version: 1.8.5
  * Operating System: Windows 10 Pro
- * Tutorial Link: TBA
+ * Tutorial Link: https://arduinobasics.blogspot.com/2019/05/sprintf-function.html
  * 
  * Acknowledgements:
  * The following resource was a key element of this tutorial: http://www.cplusplus.com/reference/cstdio/printf/
